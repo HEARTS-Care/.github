@@ -1,6 +1,6 @@
 # Welcome to HEARTS Care 👋
 
-![HEARTS Care Banner](https://via.placeholder.com/1200x400.png?text=HEARTS+Care+Banner)
+![HEARTS Care Banner](https://images.app.goo.gl/qPD2G2vw51BJYVtE8)
 
 ## About HEARTS Care
 
