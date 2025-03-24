@@ -1,6 +1,6 @@
 # Welcome to HEARTS Care 👋
 
-![HEARTS Care Banner](https://images.app.goo.gl/qPD2G2vw51BJYVtE8)
+![HEARTS Care Banner](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.FZq4o3VfCBtau2cqbVaOZgHaEc%26pid%3DApi&f=1&ipt=65d699b07ddbe316e14370ace580bcbc6de71d6a95b56d4fbad54bb3fd2a87f8&ipo=images)
 
 ## About HEARTS Care
 
