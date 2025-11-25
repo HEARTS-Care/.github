@@ -5,6 +5,6 @@
 
 
 
-<h3 align="left">My name is nathan and i am an idiot</h3>
+<h3 align="left">My name is nathan and i am an intelegent</h3>
 
 
